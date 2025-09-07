@@ -1,186 +1,75 @@
+# Vishwajeet Singh
 
-# Hi there, I'm Vishwajeet Pratap Singh! 👋
-
-<div align="center">
-  
-  ### 🚀 Software Engineer | Backend Developer | Microservices Architect
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishy)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/vishy)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishy.devv@gmail.com)
-  
-</div>
+**Software Engineer | Java | Spring Boot | Microservices | Backend Development**
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
+I am a passionate Software Engineer with 1.5 years of professional experience in backend development. My focus lies in building scalable, secure, and performance-driven applications using **Java, Spring Boot, and Microservices architecture**. I enjoy working on complex backend challenges like distributed data processing, real-time synchronization, and enterprise security frameworks.  
 
-I'm a passionate **Software Engineer** with hands-on experience in **backend development** using Java and Spring Boot in industry-standard production environments. I specialize in architecting and developing **distributed microservices** for enterprise-grade applications, delivering end-to-end backend solutions that scale.
-
-🔥 **What drives me:** Taking ownership of technical design and driving innovative solutions from concept to production, with a focus on **performance optimization** and **system scalability**.
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Software Engineer** @ Maya Data Privacy
-*📅 April 2024 - Present | 🌍 Remote*
-
-#### 🚀 Key Achievements:
-- 🏗️ **Microservices Architecture:** Led the architecture and development of distributed microservices platform using Java & Spring Boot
-  - 📈 **Impact:** 70% improvement in system throughput
-  - ⚡ **Performance:** Reduced processing time from 30 hours to 35 minutes for 100B+ records
-  - 🔄 **Scale:** Supporting concurrent processing across 25+ tables
-
-- 🔒 **Security Framework:** Architected secure authentication system with JWT, RBAC, CAPTCHA & 2FA
-  - 🛡️ **Impact:** Blocked 95%+ unauthorized access attempts
-  - 🔐 **Features:** Multi-environment secure access with email OTP
-
-- 🤖 **Automation Platform:** Built scalable REST APIs for automated schema scanning & PII detection
-  - 📊 **Scale:** Processing 500K+ database tables
-  - 📉 **Efficiency:** 95% reduction in manual effort
-  - 🎯 **Purpose:** Enabling downstream anonymization and classification
-
-- ⚡ **High-Performance Systems:** Developed APIs for backup, restore, real-time Kafka sync & data comparison
-  - 📈 **Scale:** Handling 1B+ records with sub-second latency
-  - 🔄 **Feature:** Seamless disaster recovery support
-
-- 🔐 **License Management:** Engineered secure license validation using RSA encryption & digital signatures
-  - ✅ **Impact:** 100% license compliance across enterprise deployments
-  - 🚫 **Security:** Eliminated piracy concerns
-
-- 📊 **Observability:** Integrated Spring Boot Actuator with Prometheus & Grafana
-  - ⏱️ **Impact:** 30% reduction in alert response times
-  - 📈 **Features:** Proactive monitoring and health tracking
-
-### 🏢 **Software Engineer Intern** @ Maya Data Privacy
-*📅 December 2023 - March 2024 | 🌍 Remote*
-
-#### 🎯 Key Contributions:
-- 🔄 **Data Anonymization:** Redesigned logic in Spring Boot → 20% accuracy improvement
-- 💳 **Financial Data Processing:** Enhanced backend systems for IBAN & credit card detection
-- 🔐 **Security Enhancement:** Implemented two-step verification (CAPTCHA + OTP) for password resets
+I believe in writing clean, maintainable, and production-ready code that not only solves business problems but also stands the test of scalability. I enjoy collaborating with teams, exploring new technologies, and contributing to projects that drive impact.  
 
 ---
 
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Additional Technologies
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logo=mockito&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+## 🛠️ Tech Stack & Tools
+- **Programming Languages:** Java, SQL  
+- **Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
+- **Databases:** PostgreSQL, Oracle, SAP HANA, Redis  
+- **Messaging & Streaming:** Apache Kafka  
+- **Cloud & DevOps:** Docker, Jenkins, Git, CI/CD, Azure  
+- **Monitoring & Observability:** Prometheus, Grafana, Spring Actuator  
+- **Testing & Documentation:** JUnit, Mockito, Postman, Swagger  
+- **Security Expertise:** JWT, RBAC, 2FA, Cryptography, Secure License Validation  
 
 ---
 
-## 🎓 Education
+## 🚀 Professional Experience
 
-**🎓 Bachelor of Technology (B.Tech)**  
-📍 *Techno India University, Kolkata*  
-📅 *Graduated: July 2023*  
-🏆 *CGPA: 8.64/10*
+### Software Engineer | Maya Data Privacy | Apr 2024 – Present  
+At Maya Data Privacy, I am responsible for designing and developing enterprise-grade backend systems that handle **massive-scale data workflows**. My work involves:  
+- Architecting distributed microservices in Java and Spring Boot that improved throughput by 70% and reduced processing time for **100B+ records**.  
+- Building **REST APIs for schema scanning and PII detection** across 500K+ tables, cutting manual effort by 95%.  
+- Designing secure authentication frameworks with **JWT, RBAC, CAPTCHA, and 2FA**, blocking 95%+ unauthorized access attempts.  
+- Developing **real-time Kafka synchronization and backup workflows** to process over 1B records with sub-second latency.  
+- Integrating **Prometheus and Grafana** to improve system observability, reducing alert response times by 30%.  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-singhh&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-singhh&layout=compact&theme=radical&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwajeet-singhh&theme=radical)
-  
-</div>
+### Software Engineer Intern | Maya Data Privacy | Dec 2023 – Mar 2024  
+- Redesigned anonymization logic, increasing classification accuracy by 20%.  
+- Enhanced backend for IBAN and credit card detection, processing millions of records securely.  
+- Implemented **two-step verification (CAPTCHA + OTP)** for secure password resets.  
 
 ---
 
-## 🏆 Key Achievements & Impact
-
-- 🚀 **Performance Optimization:** Reduced data processing time from 30 hours to 35 minutes (99.8% improvement)
-- 📈 **Scalability:** Built systems handling 1B+ records with sub-second latency
-- 🔒 **Security Excellence:** Achieved 95%+ reduction in unauthorized access attempts
-- 🤖 **Automation Impact:** 95% reduction in manual effort through intelligent automation
-- 📊 **System Reliability:** 30% improvement in alert response times through observability
+## 📚 Education
+**Bachelor of Technology (B.Tech) in Computer Science**  
+Techno India University, Kolkata — CGPA: 8.64/10  
 
 ---
 
-## 🔮 Areas of Expertise
+## 📂 Featured Projects
+- **Distributed Microservices Platform**  
+  Enterprise-grade data workflows reducing processing time by 98%. Technologies: Java, Spring Boot, Kafka, PostgreSQL.  
 
-- **🏗️ Microservices Architecture** - Designing scalable distributed systems
-- **🔒 Security Engineering** - JWT, RBAC, encryption, digital signatures
-- **⚡ Performance Optimization** - High-throughput, low-latency systems
-- **📊 Data Privacy & Compliance** - Anonymization, PII detection, GDPR compliance
-- **🔍 System Observability** - Monitoring, alerting, and health tracking
-- **☁️ Cloud Technologies** - Azure, containerization, CI/CD
+- **Secure Authentication & License Validation**  
+  Built end-to-end security with JWT, RBAC, 2FA, and RSA encryption, ensuring 100% compliance and preventing piracy.  
 
----
-
-## 💡 What I'm Currently Working On
-
-- 🔧 Building next-generation data privacy solutions
-- 📚 Exploring advanced microservices patterns
-- 🚀 Optimizing system performance at enterprise scale
-- 🔒 Implementing cutting-edge security frameworks
+- **PII Detection & Anonymization System**  
+  Automated scanning of 500K+ tables to support GDPR and DPDP compliance. Technologies: Spring Boot, Oracle, SAP HANA.  
 
 ---
 
-## 📞 Let's Connect!
-
-I'm always interested in discussing **backend architecture**, **microservices**, **data privacy**, and **system optimization**. Feel free to reach out!
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/✉️_Email_Me-vishy.devv@gmail.com-red?style=for-the-badge)](mailto:vishy.devv@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-blue?style=for-the-badge)](https://linkedin.com/vishy)
-  [![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-black?style=for-the-badge)](https://github.com/vishy)
-  
-  📱 **Phone:** +91 9155676582
-  
-</div>
+## 🏆 Achievements
+- Increased enterprise system throughput by **70%** through distributed microservices optimization.  
+- Reduced manual data classification efforts by **95%** through automation.  
+- Developed scalable backend workflows capable of handling **1B+ records** with real-time processing.  
 
 ---
 
-<div align="center">
-  
-  ### 🌟 *"Passionate about building scalable, secure, and high-performance backend systems that make a difference"* 🌟
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=vishy&color=brightgreen&style=flat-square&label=Profile+Views)
-  
-</div>
+## 📫 Connect With Me
+- **Email:** vishy.devv@gmail.com  
+- **LinkedIn:** [linkedin.com/in/vishy](https://linkedin.com/in/vishy)  
+- **GitHub:** [github.com/vishy](https://github.com/vishy)  
+
+---
+
+⭐️ *I am always open to collaboration, learning, and contributing to impactful projects. Feel free to check out my repositories and connect with me!*  
