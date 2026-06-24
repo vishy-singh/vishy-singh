@@ -1,75 +1,82 @@
-# Vishwajeet Singh
+# Vishwajeet Pratap Singh
 
-**Software Engineer | Java | Spring Boot | Microservices | Backend Development**
+**Backend Engineer · Java · Spring Boot · Distributed Systems · Microservices**
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate Software Engineer with 1.5 years of professional experience in backend development. My focus lies in building scalable, secure, and performance-driven applications using **Java, Spring Boot, and Microservices architecture**. I enjoy working on complex backend challenges like distributed data processing, real-time synchronization, and enterprise security frameworks.  
 
-I believe in writing clean, maintainable, and production-ready code that not only solves business problems but also stands the test of scalability. I enjoy collaborating with teams, exploring new technologies, and contributing to projects that drive impact.  
+I'm a backend-focused Software Engineer with **2.5+ years** building fault-tolerant distributed systems, identity/security infrastructure, and microservices at scale. I work primarily in **Java, Spring Boot, and Kafka**, and I like the hard backend problems — crash-safe recovery, cross-database processing, concurrency, and auth done properly.
+
+At [Maya Data Privacy](https://maya-privacy.com) I wear three hats at once — **individual contributor, Scrum Master, and tester** — across a ~20-person cross-functional team. I care about clean, production-ready code that holds up under real scale, and I built and open-sourced **[Helix](https://github.com/vishy-singh/helix)**, a self-hosted AI PR-review tool, on my own time.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Programming Languages:** Java, SQL  
-- **Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate  
-- **Databases:** PostgreSQL, Oracle, SAP HANA, Redis  
-- **Messaging & Streaming:** Apache Kafka  
-- **Cloud & DevOps:** Docker, Jenkins, Git, CI/CD, Azure  
-- **Monitoring & Observability:** Prometheus, Grafana, Spring Actuator  
-- **Testing & Documentation:** JUnit, Mockito, Postman, Swagger  
-- **Security Expertise:** JWT, RBAC, 2FA, Cryptography, Secure License Validation  
+
+- **Languages:** Java, Python, SQL, JavaScript, TypeScript
+- **Frameworks & Libraries:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Kafka, Flyway, JUnit, Mockito
+- **Databases:** PostgreSQL, Oracle, SAP HANA, Redis
+- **Cloud & DevOps:** Docker, GCP, AWS, Git, CI/CD
+- **Observability:** Prometheus, Grafana, Spring Actuator
+- **Testing & Docs:** JUnit, Mockito, Testcontainers, Postman
+- **Security:** JWT, RBAC, MFA, OAuth2, account security
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 Experience
 
-### Software Engineer | Maya Data Privacy | Apr 2024 – Present  
-At Maya Data Privacy, I am responsible for designing and developing enterprise-grade backend systems that handle **massive-scale data workflows**. My work involves:  
-- Architecting distributed microservices in Java and Spring Boot that improved throughput by 70% and reduced processing time for **100B+ records**.  
-- Building **REST APIs for schema scanning and PII detection** across 500K+ tables, cutting manual effort by 95%.  
-- Designing secure authentication frameworks with **JWT, RBAC, CAPTCHA, and 2FA**, blocking 95%+ unauthorized access attempts.  
-- Developing **real-time Kafka synchronization and backup workflows** to process over 1B records with sub-second latency.  
-- Integrating **Prometheus and Grafana** to improve system observability, reducing alert response times by 30%.  
+### Software Engineer — Maya Data Privacy · Jan 2024 – Present
 
-### Software Engineer Intern | Maya Data Privacy | Dec 2023 – Mar 2024  
-- Redesigned anonymization logic, increasing classification accuracy by 20%.  
-- Enhanced backend for IBAN and credit card detection, processing millions of records securely.  
-- Implemented **two-step verification (CAPTCHA + OTP)** for secure password resets.  
+Designing and building enterprise-grade backend systems for large-scale, privacy-focused data workflows.
+
+- Own end-to-end feature delivery as an IC while serving as **Scrum Master and tester** across a ~20-person team spanning 5 functions (UI, AI, Backend, Product, Testing).
+- Built a **production IAM service from scratch** as sole engineer — auth flows, JWT, RBAC, MFA, OAuth2, account security — now securing access for **500+ users** across B2B tenants deployed on-premises.
+- Designed a **fault-tolerant state-management** feature for long-running bulk operations across PostgreSQL, Oracle, and SAP HANA, using a **crash-safe journaling pattern** for automatic mid-process recovery; cut bulk insert time **~50%** by disabling triggers during writes.
+- Delivered across two **Spring Boot microservices (Kafka/Redis)** with tenant-configurable REST settings, cross-database SQL handling, and concurrency-safe resource management in a Spring Batch pipeline — validated with unit and Testcontainers tests.
+- Cut a **48–60 hr workflow pipeline to ~2–3 hrs** by parallelising table processing 25-at-a-time across 100k-table datasets and pushing filtering down to the database layer.
+- Integrated my own open-sourced tool **Helix** for automated PR review, cutting review time **~50%**.
+- Contributed to the **AWS → GCP migration**, containerising services with Docker and managing secrets/connectivity across environments.
+
+### Software Engineer Intern — Maya Data Privacy · Dec 2023
+
+- Built a Python data-classification utility that samples field values and applies configurable detection logic to identify sensitive data types at scale.
+- Implemented group-based access control to enforce data-consistency boundaries across multi-tenant workflows, hardening the authorisation model ahead of production rollout.
+
+---
+
+## 📂 Featured Project
+
+### [Helix](https://github.com/vishy-singh/helix) — Self-Hosted AI PR Review Tool
+
+An open-source AI pull-request reviewer, shipped as a public Docker image so any team can pull it, deploy on their own infrastructure, and connect their GitHub org — **zero vendor lock-in, no per-seat licensing**. Built on weekends, then deployed and integrated into my own org's workflow, where it cut PR review time ~50%.
+
+`Java` · `Spring Boot` · `Docker` · `REST API` · `Webhooks` · `Ollama` · `LLM` · `GCP` · `Nginx`
 
 ---
 
 ## 📚 Education
-**Bachelor of Technology (B.Tech) in Computer Science**  
-Techno India University, Kolkata — CGPA: 8.64/10  
+
+**B.Tech in Computer Science** — Techno India University, Kolkata
+GPA: 8.64 / 10 · Aug 2019 – July 2023
 
 ---
 
-## 📂 Featured Projects
-- **Distributed Microservices Platform**  
-  Enterprise-grade data workflows reducing processing time by 98%. Technologies: Java, Spring Boot, Kafka, PostgreSQL.  
+## 🏆 Highlights
 
-- **Secure Authentication & License Validation**  
-  Built end-to-end security with JWT, RBAC, 2FA, and RSA encryption, ensuring 100% compliance and preventing piracy.  
-
-- **PII Detection & Anonymization System**  
-  Automated scanning of 500K+ tables to support GDPR and DPDP compliance. Technologies: Spring Boot, Oracle, SAP HANA.  
+- Took a data-processing pipeline from **48–60 hours down to ~2–3 hours** through concurrency and database-level filtering.
+- **Sole owner** of a from-scratch IAM service securing 500+ B2B users on-premises.
+- Built and **open-sourced Helix**, an AI PR-review tool teams can self-host — now used in production internally.
 
 ---
 
-## 🏆 Achievements
-- Increased enterprise system throughput by **70%** through distributed microservices optimization.  
-- Reduced manual data classification efforts by **95%** through automation.  
-- Developed scalable backend workflows capable of handling **1B+ records** with real-time processing.  
+## 📫 Connect
+
+- **Email:** vishy.devv@gmail.com
+- **LinkedIn:** [linkedin.com/in/vishydev](https://www.linkedin.com/in/vishydev/)
+- **GitHub:** [github.com/vishy-singh](https://github.com/vishy-singh)
+- **Website:** [vishwajeet.me](https://vishwajeet.me)
 
 ---
 
-## 📫 Connect With Me
-- **Email:** vishy.devv@gmail.com  
-- **LinkedIn:** [linkedin.com/in/vishy](https://linkedin.com/in/vishy)  
-- **GitHub:** [github.com/vishy](https://github.com/vishy)  
-
----
-
-⭐️ *I am always open to collaboration, learning, and contributing to impactful projects. Feel free to check out my repositories and connect with me!*  
+⭐️ *Always open to collaboration and interesting backend problems. Feel free to explore my repositories and reach out.*
