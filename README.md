@@ -4,8 +4,8 @@
 
 ---
 ## 🚧 Currently
-- **Building [zorqen](https://github.com/vishy-singh/zorqen)** — a production-grade distributed systems platform (FastAPI microservices, Kafka, Redis, event-driven architecture)
-- **Built [helix](https://github.com/vishy-singh/helix)** — [one line on what helix does]
+- **Building _zorqen_** - a production-grade distributed systems platform (FastAPI microservices, Kafka, Redis, event-driven architecture)
+- **Built [_helix_](https://github.com/vishy-singh/helix)** - [a self-hosted AI PR-review tool]
 
 ---
 
