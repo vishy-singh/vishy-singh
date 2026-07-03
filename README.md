@@ -3,6 +3,11 @@
 **Backend Engineer · Java · Spring Boot · Distributed Systems · Microservices**
 
 ---
+## 🚧 Currently
+- **Building [zorqen](https://github.com/vishy-singh/zorqen)** — a production-grade distributed systems platform (FastAPI microservices, Kafka, Redis, event-driven architecture)
+- **Built [helix](https://github.com/vishy-singh/helix)** — [one line on what helix does]
+
+---
 
 ## 👨‍💻 About Me
 
